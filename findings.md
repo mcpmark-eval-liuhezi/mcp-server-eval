@@ -19,7 +19,7 @@
     1. `docs/streamable-http.md` (modified, +16)
     2. `internal/ghmcp/oauth_typed_test.go` (modified, +141)
     3. `pkg/inventory/header_params_test.go` (added, +266)
-    44. `pkg/inventory/server_tool.go` (modified, +3/−2)
+    4. `pkg/inventory/server_tool.go` (modified, +3/−2)
     5. `pkg/inventory/typed_input_test.go` (modified, +14)
     6. `pkg/inventory/typed_schema.go` (modified, +50/−1)
 
